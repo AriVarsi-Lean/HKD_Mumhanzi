@@ -346,13 +346,13 @@ input{
 @sub-menu-link-color: #ffffff;
 @page-title-color: #ffffff;
 @body-font-set: 4;
-@body-font-set-main-family: 'Courier New', Courier, monospace;
+@body-font-set-main-family: 'Ubuntu', sans-serif;
 @body-font-set-main-weight: normal;
 @body-font-set-main-text-transform: none;
 @body-font-set-main-font-style: normal;
 @body-font-set-main-letter-spacing: normal;
 @body-font-set-main-url: "";
-@body-font-set-alt-family: 'Courier New', Courier, monospace;
+@body-font-set-alt-family: 'Ubuntu', sans-serif;
 @body-font-set-alt-weight: normal;
 @body-font-set-alt-text-transform: none;
 @body-font-set-alt-font-style: normal;
@@ -646,14 +646,14 @@ input{
   text-align: left;
 }
 #usersite-container .main-font {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: normal;
   text-transform: none;
   font-style: normal;
   letter-spacing: normal;
 }
 #usersite-container .alt-font {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: normal;
   text-transform: none;
   font-style: normal;
@@ -666,7 +666,7 @@ input{
 #usersite-container button {
   font-size: 16px;
   line-height: 1.5;
-  font-family: 'Courier New', Courier, monospace;
+  font-family:  'Ubuntu', sans-serif;
   font-weight: normal;
   text-transform: none;
   font-style: normal;
